@@ -174,11 +174,9 @@ const Index = () => {
               </p>
               <div className="space-y-4">
                 <div className="flex items-center gap-4">
-                  <div className="w-12 h-12 rounded-full bg-gradient-to-r from-primary to-secondary flex items-center justify-center text-white font-bold text-xl">
-                    5+
-                  </div>
+                  <div className="w-12 h-12 rounded-full bg-gradient-to-r from-primary to-secondary flex items-center justify-center text-white font-bold text-xl">2</div>
                   <div>
-                    <p className="font-semibold">Лет опыта</p>
+                    <p className="font-semibold">Опыт</p>
                     <p className="text-sm text-muted-foreground">В графическом дизайне</p>
                   </div>
                 </div>
